@@ -21,7 +21,12 @@ src="https://img.shields.io/github/followers/Code_F5?logo=github&style=for-the-b
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" width="36" height="36" alt="Azure" /></a>
  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="36" height="36" alt="IntelliJ" /></a> 
+ <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" width="36" height="36" alt="Azure" /></a>
+ <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/yii/yii-plain-wordmark.svg" width="36" height="36" alt="Azure" /></a>
+ 
+
 </p>
 
 
